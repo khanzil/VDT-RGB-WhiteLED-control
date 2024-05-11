@@ -12,4 +12,7 @@ Thêm ứng dụng dim LED bên trong hàm callback() (từ line 150)
     }
 ```
 
-
+File được code để chạy trên trang mô phỏng Wokwi. Link project:
+```
+    https://wokwi.com/projects/397574984044149761
+```
