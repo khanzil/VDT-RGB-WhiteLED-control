@@ -184,8 +184,8 @@ void callback(char* topic, byte* message, unsigned int length) {
   Serial.println("Exit Call back");
 }
 
-const char *ssid = "Administrator's iPhone";
-const char *password = "30042002";
+const char *ssid = "Wokwi-GUEST";
+const char *password = "";
 void setup() {
   Serial.begin(115200);
   pinMode(COLD_WHITE, OUTPUT);
